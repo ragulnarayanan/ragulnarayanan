@@ -32,29 +32,29 @@ Expected Graduation: May 2026
 <p align="center">
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/960px-MySQL_textlogo.svg.png" width="60" height="60" alt="MySQL"/>
   <br/>
 
   <!-- Visualization -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60" height="60" alt="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flourish_logo.png" width="60" height="60" alt="Flourish"/>
+  <img src="https://logovectorseek.com/wp-content/uploads/2021/05/flourish-logo-vector.png" width="60" height="60" alt="Flourish"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI"/>
   <br/>
 
   <!-- Databases & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Snowflake_Logo.svg" width="80" height="60" alt="Snowflake"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/184px-Snowflake_Logo.svg.png" width="80" height="60" alt="Snowflake"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" width="60" height="60" alt="AWS"/>
   <br/>
 
   <!-- ML / AI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo.svg" width="60" height="60" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="60" height="60" alt="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
   <br/>
 
   <!-- Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dbt_Labs_logo.svg" width="70" height="60" alt="dbt"/>
+  <img src="https://cdn.brandfetch.io/idqo3CGOOp/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="70" height="60" alt="dbt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="60" height="60" alt="Airflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
