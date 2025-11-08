@@ -62,9 +62,30 @@ Expected Graduation: May 2026
 
 </p>
 
-
  ---
+## Projects
 
+### [Amazon Books Data Pipeline](https://github.com/ragulnarayanan/amazon-books-etl) 
+- Built an ETL pipeline to automate daily scraping, transformation, and storage of Amazon books data.  
+- **Tools & Skills:** Apache Airflow, PostgreSQL, Docker, Python, Data Pipeline Development, ETL  
+
+### [NVIDIA Stock Analysis & Visualization](https://github.com/ragulnarayanan/nvidia-stock-analysis) 
+- Analyzed NVIDIA’s stock data to uncover performance trends and benchmark comparisons with NASDAQ data.  
+- **Tools & Skills:** Tableau, Flourish, TradingView, Python, Data Visualization, Time Series Analysis  
+
+### [Bike Sharing Demand Prediction](https://github.com/ragulnarayanan/bike_sharing_ml) 
+- Predicted hourly bike rental demand using ML models, achieving R² ≈ 0.95 and RMSE ≈ 40 with XGBoost.  
+- **Tools & Skills:** Predictive Modelling, XGBoost, Random Forest, Neural Networks, Python, Scikit-learn  
+
+### [Stroke Classification: Predicting Stroke Risk with ML](https://github.com/ragulnarayanan/stroke_prediction_ml) 
+- Built classification models to detect high-risk stroke patients, improving minority class accuracy using SMOTE.  
+- **Tools & Skills:** Predictive Analytics, XGBoost, Random Forest, PCA, SMOTE, Python, Scikit-learn  
+
+### [E-Commerce Database Management System](https://github.com/ragulnarayanan/E-Commerce-Database-creation-from-scratch) 
+- Developed an e-commerce database using both relational (MySQL) and NoSQL (MongoDB) models.  
+- **Tools & Skills:** Database Design, SQL & NoSQL Modelling, MySQL, MongoDB, ER Modelling, UML Diagram  
+
+---
 ## Contact Me
 
 - 📧 [Email](mailto:magesh.ra@northeastern.edu)  
