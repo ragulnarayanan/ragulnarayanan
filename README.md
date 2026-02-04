@@ -71,7 +71,11 @@ Expected Graduation: April 2026
 
 ### [NVIDIA Stock Analysis & Visualization](https://github.com/ragulnarayanan/nvidia-stock-analysis) 
 - Analyzed NVIDIA’s stock data to uncover performance trends and benchmark comparisons with NASDAQ data.  
-- **Tools & Skills:** Tableau, Flourish, TradingView, Python, Data Visualization, Time Series Analysis  
+- **Tools & Skills:** Tableau, Flourish, TradingView, Python, Data Visualization, Time Series Analysis
+
+### Discriminative CNN for Multi-Class Object Recognition
+- Designed and optimized CNN architectures for 39-class image classification, achieving 96.59% validation accuracy 
+- Tools & Skills: Deep Learning, CNN Architecture Design, TensorFlow, Keras, Batch Normalization, Python, Google Colab GPU
 
 ### [Bike Sharing Demand Prediction](https://github.com/ragulnarayanan/bike_sharing_ml) 
 - Predicted hourly bike rental demand using ML models, achieving R² ≈ 0.95 and RMSE ≈ 40 with XGBoost.  
@@ -86,7 +90,7 @@ Expected Graduation: April 2026
 - **Tools & Skills:** Database Design, SQL & NoSQL Modelling, MySQL, MongoDB, ER Modelling, UML Diagram
 
 ### [Customer Churn Analysis & Prediction](https://github.com/ragulnarayanan/customer-churn-analysis)
-- Developed ML classification models to predict customer churn, identifying  strongest churn indicators through comprehensive EDA.
+- Developed ML models to predict customer churn, identifying  strongest churn indicators through comprehensive EDA.
 - **Tools & Skills:** Predictive Analytics, Logistic Regression, SVM, SMOTE, PCA, Python, Scikit-learn, Data Visualization
 
 ---
