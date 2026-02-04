@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ragul Narayanan Magesh
 
-**Aspiring Spring 2026 Co-Op | Data Professional | MS Data Analytics Engineering**  
+**Seeking Full-Time Data Roles | Data Professional | MS Data Analytics Engineering**  
 📍 Boston, Massachusetts  
 📖 Northeastern University, Boston  
 📫 Reach me: [Email](mailto:magesh.ra@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/ragul-narayanan-magesh-18013916b/) | [GitHub](https://github.com/ragulnarayanan)
@@ -21,7 +21,7 @@ I enjoy turning data into actionable insights and solving real-world business pr
 ## Education
 
 **MS Data Analytics Engineering** – Northeastern University, Boston  
-Expected Graduation: May 2026  
+Expected Graduation: April 2026  
 
 **Courses:** Foundations of Data Analytics, Data Management for Analytics, Computation & Visualization, Data Mining for Analytics, Applied NLP, Machine Learning Operations  
 
@@ -83,7 +83,11 @@ Expected Graduation: May 2026
 
 ### [E-Commerce Database Management System](https://github.com/ragulnarayanan/E-Commerce-Database-creation-from-scratch) 
 - Developed an e-commerce database using both relational (MySQL) and NoSQL (MongoDB) models.  
-- **Tools & Skills:** Database Design, SQL & NoSQL Modelling, MySQL, MongoDB, ER Modelling, UML Diagram  
+- **Tools & Skills:** Database Design, SQL & NoSQL Modelling, MySQL, MongoDB, ER Modelling, UML Diagram
+
+### [Customer Churn Analysis & Prediction](https://github.com/ragulnarayanan/customer-churn-analysis)
+- Developed ML classification models to predict customer churn, identifying  strongest churn indicators through comprehensive EDA.
+- **Tools & Skills:** Predictive Analytics, Logistic Regression, SVM, SMOTE, PCA, Python, Scikit-learn, Data Visualization
 
 ---
 ## Contact Me
