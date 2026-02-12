@@ -73,7 +73,7 @@ Expected Graduation: April 2026
 - Analyzed NVIDIA’s stock data to uncover performance trends and benchmark comparisons with NASDAQ data.  
 - **Tools & Skills:** Tableau, Flourish, TradingView, Python, Data Visualization, Time Series Analysis
 
-### Discriminative CNN for Multi-Class Object Recognition
+### [Convolutional Neural Network for Multi-Class Object Classification](https://github.com/ragulnarayanan/cnn-object-classification)
 - Designed and optimized CNN architectures for 39-class image classification, achieving 96.59% validation accuracy 
 - Tools & Skills: Deep Learning, CNN Architecture Design, TensorFlow, Keras, Batch Normalization, Python, Google Colab GPU
 
