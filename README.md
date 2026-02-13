@@ -12,9 +12,6 @@
 I am a data professional passionate about building end-to-end **data engineering pipelines**, interactive dashboards, and machine learning models.  
 I enjoy turning data into actionable insights and solving real-world business problems.  
 
-**Current Focus:**  
-🔭 Working on: Building Data Engineering Pipelines  
-🌱 Learning: Apache Spark, Databricks, Advanced ML Techniques  
 
 ---
 
@@ -23,7 +20,7 @@ I enjoy turning data into actionable insights and solving real-world business pr
 **MS Data Analytics Engineering** – Northeastern University, Boston  
 Expected Graduation: April 2026  
 
-**Courses:** Foundations of Data Analytics, Data Management for Analytics, Computation & Visualization, Data Mining for Analytics, Applied NLP, Machine Learning Operations  
+**Courses:** Foundations of Data Analytics, Data Management for Analytics, Computation & Visualization, Data Mining for Analytics, Applied Natural Language Processing, Machine Learning Operations, Neural Networks and Deep Learning, Applied Generative AI  
 
 ---
 
@@ -72,6 +69,10 @@ Expected Graduation: April 2026
 ### [NVIDIA Stock Analysis & Visualization](https://github.com/ragulnarayanan/nvidia-stock-analysis) 
 - Analyzed NVIDIA’s stock data to uncover performance trends and benchmark comparisons with NASDAQ data.  
 - **Tools & Skills:** Tableau, Flourish, TradingView, Python, Data Visualization, Time Series Analysis
+
+### [Amazon Electronics Recommendation System](https://github.com/ragulnarayanan/amazon-electronics-recommendation-system)
+- Built a recommendation system with AI-powered review summarization and aspect-level sentiment analysis.
+- Tools & Skills: NLP, FastAPI, Streamlit, Qdrant, PyTorch, Pegasus, RoBERTa, BGE Embeddings, BM25, Polars, GCP, AWS SageMaker
 
 ### [Convolutional Neural Network for Multi-Class Object Classification](https://github.com/ragulnarayanan/cnn-object-classification)
 - Designed and optimized CNN architectures for 39-class image classification, achieving 96.59% validation accuracy 
