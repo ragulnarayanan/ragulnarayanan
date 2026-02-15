@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ragul Narayanan Magesh
 
-**Seeking Full-Time Data Roles | Data Professional | MS Data Analytics Engineering**  
+**AI Data Scientist | MS Data Analytics Engineering**  
 📍 Boston, Massachusetts  
 📖 Northeastern University, Boston  
 📫 Reach me: [Email](mailto:magesh.ra@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/ragul-narayanan-magesh-18013916b/) | [GitHub](https://github.com/ragulnarayanan)
