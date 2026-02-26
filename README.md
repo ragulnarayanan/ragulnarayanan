@@ -17,7 +17,7 @@
 ## About Me
 
 - 🎓 Pursuing **MS in Data Analytics Engineering** at **Northeastern University** (GPA: 3.8/4.0)
-- 💼 **2+ years** of professional experience as a **Data Analyst** and **Data Engineer** 
+- 💼 **2+ years** of professional experience as a **Data Engineer** and **Data Scientist** 
 - 🔬 Coursework in **Deep Learning, NLP, MLOps, Generative AI, Data Mining & Database Management**
 - 🛠️ Experienced in building **end-to-end ML pipelines**, **recommendation systems**, **ETL workflows**, and **interactive dashboards**
 - 🌱 Currently exploring **LLM-powered applications**, **MLOps best practices**, and **advanced NLP**
@@ -68,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="92" height="92" alt="FastAPI" style="margin: 0 50px 45px 50px;"/>
 </p>
 
+---
 
 ## Projects
 
