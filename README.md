@@ -2,14 +2,14 @@
 
 <p align="center">
   <strong>Data Scientist & Engineer | MS Data Analytics Engineering @ Northeastern University</strong><br>
-  📍 Boston, MA &nbsp;|&nbsp; 🎓 Graduating April 2026 &nbsp;|&nbsp; 🔍 Seeking Full-Time Data Roles
+  📍 Boston, MA &nbsp;|&nbsp; 🎓 Graduating May 2026 &nbsp;|&nbsp; 🔍 Seeking Full-Time AI/ML Roles
 </p>
 
 <p align="center">
   <a href="mailto:magesh.ra@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ragul-narayanan-magesh-18013916b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ragulnarayanan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/ragul.narayanan.magesh/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+  <a href="https://ragulnarayanan.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPgo=&logoColor=white" /></a>
 </p>
 
 ---
@@ -21,56 +21,95 @@
 - 🔬 Coursework in **Deep Learning, NLP, MLOps, Generative AI, Data Mining & Database Management**
 - 🛠️ Experienced in building **end-to-end ML pipelines**, **recommendation systems**, **ETL workflows**, and **interactive dashboards**
 - 🌱 Currently exploring **LLM-powered applications**, **MLOps best practices**, and **advanced NLP**
-- 🎯 Passionate about turning raw data into actionable insights and solving real-world business problems 
-
 
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br><b>Python</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br><b>SQL</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/><br><b>Linux</b></td>
+  </tr>
+</table>
 
-<p align="center" style="line-height: 2.5;">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="92" height="92" alt="Python" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/960px-MySQL_textlogo.svg.png" width="92" height="92" alt="MySQL" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="92" height="92" alt="R" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="92" height="92" alt="Java" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="92" height="92" alt="Linux" style="margin: 0 50px 45px 50px;"/>
-  <br/>
-  <!-- Visualization -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="92" height="92" alt="Tableau" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://logovectorseek.com/wp-content/uploads/2021/05/flourish-logo-vector.png" width="92" height="92" alt="Flourish" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="92" height="92" alt="Power BI" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="92" height="92" alt="Grafana" style="margin: 0 50px 45px 50px;"/>
-  <br/>
-  <!-- Databases & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="92" height="92" alt="PostgreSQL" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="92" height="92" alt="Snowflake" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" width="92" height="92" alt="AWS" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="92" height="92" alt="GCP" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="92" height="92" alt="MongoDB" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="92" height="92" alt="Neo4j" style="margin: 0 50px 45px 50px;"/>
-  <br/>
-  <!-- ML / AI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="92" height="92" alt="Scikit-learn" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="92" height="92" alt="PyTorch" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="92" height="92" alt="TensorFlow" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="92" height="92" alt="HuggingFace" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="92" height="92" alt="Streamlit" style="margin: 0 50px 45px 50px;"/>
-  <br/>
-  <!-- Tools & DevOps -->
-  <img src="https://cdn.brandfetch.io/idqo3CGOOp/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="102" height="92" alt="dbt" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="92" height="92" alt="Airflow" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="92" height="92" alt="PySpark" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="92" height="92" alt="Git" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="92" height="92" alt="Docker" style="margin: 0 50px 45px 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="92" height="92" alt="FastAPI" style="margin: 0 50px 45px 50px;"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br><b>Git</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/><br><b>Docker</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/><br><b>FastAPI</b></td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" width="48" height="48"/><br><b>AWS</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48"/><br><b>GCP</b></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48"/><br><b>LangChain</b></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/crewai" width="48" height="48"/><br><b>CrewAI</b></td>
+    <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br><b>HuggingFace</b></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/54333248" width="48" height="48"/><br><b>Pinecone</b></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/73504361" width="48" height="48"/><br><b>Qdrant</b></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/124071923" width="48" height="48"/><br><b>ChromaDB</b></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" height="48"/><br><b>MLflow</b></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="48" height="48"/><br><b>Scikit-learn</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/><br><b>PyTorch</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/><br><b>TensorFlow</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48"/><br><b>Streamlit</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48"/><br><b>Airflow</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48"/><br><b>PySpark</b></td>
+    <td align="center" width="96"><img src="https://cdn.brandfetch.io/idqo3CGOOp/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/><br><b>dbt</b></td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="48" height="48"/><br><b>Snowflake</b></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="48" height="48"/><br><b>Tableau</b></td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48"/><br><b>Power BI</b></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/qlik/009848" width="48" height="48"/><br><b>Qlik</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/><br><b>PostgreSQL</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br><b>MongoDB</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48"/><br><b>Neo4j</b></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48"/><br><b>CI/CD</b></td>
+  </tr>
+</table>
 
 ---
 
 ## Projects
+
+### [MarketMind – Multi-Agent Stock Research Platform](https://github.com/ragulnarayanan/marketmind)
+ 
+- Built a multi-agent stock research app with 5 specialized LLM agents that generate comprehensive investment briefs with audio.
+- **Tools & Skills:** LangChain,OpenAI GPT, Gemini, Qdrant Cloud, Firestore, GCP Cloud Run, OpenAI TTS, Multi-Agent Systems, RAG
+
+### [EchoAI – MLOps Review Intelligence System](https://github.com/abhisek-ai/echo-ai)
+ 
+- Designed an end-to-end MLOps pipeline for LLM-powered review summarization with automated retraining and monitoring.
+- **Tools & Skills:** Apache Airflow, BigQuery, MLflow, DVC, FLAN-T5, Streamlit, GCP, Docker, CI/CD, MLOps
+
+### [Oil Market RAG – Retrieval-Augmented Q&A System](https://github.com/ragulnarayanan/oil-market-rag)
+ 
+- Built a RAG pipeline for intelligent Q&A over a 92-page oil market report, using semantic chunking and top-5 retrieval.
+- **Tools & Skills:** LangChain, ChromaDB, GPT-3.5-Turbo, Gemini Embeddings, PyPDFLoader, Python, RAG, Vector Databases
+
+### [FIFA World Cup Chatbot](https://github.com/ragulnarayanan/worldcup-chatbot)
+ 
+- Developed a dual-mode RAG chatbot for World Cup Q&A and match outcome prediction over 49K+ historical matches.
+- **Tools & Skills:** LangChain, Pinecone, OpenAI Embeddings, RAG, Agent Architecture, Kaggle, Python
+
+### [YOLOv8 Oriented Bounding Box Detection](https://github.com/ragulnarayanan/yolov8-obb-detection)
+ 
+- Trained YOLOv8 OBB models for 39-class object detection with custom-annotated datasets and augmentation pipelines.
+- **Tools & Skills:** YOLOv8, Computer Vision, Roboflow, Object Detection, Deep Learning, Google Colab GPU, Python
 
 ### [Amazon Books Data Pipeline](https://github.com/ragulnarayanan/amazon-books-etl) 
 - Built an ETL pipeline to automate daily scraping, transformation, and storage of Amazon books data.  
@@ -82,11 +121,11 @@
 
 ### [Amazon Electronics Recommendation System](https://github.com/ragulnarayanan/amazon-electronics-recommendation-system)
 - Built a recommendation system with AI-powered review summarization and aspect-level sentiment analysis.
-- Tools & Skills: NLP, FastAPI, Streamlit, Qdrant, PyTorch, Pegasus, RoBERTa, BGE Embeddings, BM25, Polars, GCP, AWS SageMaker
+- **Tools & Skills:** NLP, FastAPI, Streamlit, Qdrant, PyTorch, Pegasus, RoBERTa, BGE Embeddings, BM25, Polars, GCP, AWS SageMaker
 
 ### [Convolutional Neural Network for Multi-Class Object Classification](https://github.com/ragulnarayanan/cnn-object-classification)
 - Designed and optimized CNN architectures for 39-class image classification, achieving 96.59% validation accuracy 
-- Tools & Skills: Deep Learning, CNN Architecture Design, TensorFlow, Keras, Batch Normalization, Python, Google Colab GPU
+- **Tools & Skills:** Deep Learning, CNN Architecture Design, TensorFlow, Keras, Batch Normalization, Python, Google Colab GPU
 
 ### [Bike Sharing Demand Prediction](https://github.com/ragulnarayanan/bike_sharing_ml) 
 - Predicted hourly bike rental demand using ML models, achieving R² ≈ 0.95 and RMSE ≈ 40 with XGBoost.  
