@@ -105,12 +105,16 @@
 ## 🚀 Projects
 
 ### [Secure Local DB Agent – Offline Text-to-SQL with an AST-Based Safety Layer](https://github.com/ragulnarayanan/secure-local-db-agent)
-- Built a fully offline text-to-SQL agent (local LLM via Ollama, **zero cloud egress**) with an `sqlglot` AST safety layer that blocks any non read-only or non-allowlisted query before execution — benchmarked at **85% accuracy** across 20 questions on 3 local models.
-- **Tools & Skills:** Ollama, Llama 3.1, Qwen2.5-Coder, sqlglot (AST validation), Pydantic, SQLite, Streamlit, pytest, CI/CD, Structured Output, Agent Safety, LLM Evaluation
+- Built a fully offline text-to-SQL agent (local LLM via Ollama, **zero cloud egress**) with a AST safety layer.
+- **Tools & Skills:** Ollama, Llama 3.1, Qwen2.5-Coder, sqlglot (AST validation), Pydantic, SQLite, Streamlit, Agent Safety, LLM Evaluation
 
 ### [MarketMind – Multi-Agent Stock Research Platform](https://github.com/ragulnarayanan/marketmind)
 - Built a multi-agent stock research app with 5 specialized LLM agents that generate comprehensive investment briefs with audio.
 - **Tools & Skills:** LangChain, OpenAI GPT, Gemini, Qdrant Cloud, Firestore, GCP Cloud Run, OpenAI TTS, Multi-Agent Systems, RAG
+
+### [nuScenes Failure Atlas](https://github.com/ragulnarayanan/nuscenes-failure-atlas)
+- Data-centric analysis of 3D object-detector failures on nuScenes and pointing to the data that would fix it
+- **Tools & Skills:** Python, pandas, numpy, scikit-learn, matplotlib, Google Colab, Point clouds, LiDAR sensing, 3D bounding boxes
 
 ### [EchoAI – MLOps Review Intelligence System](https://github.com/abhisek-ai/echo-ai)
 - Designed an end-to-end MLOps pipeline for LLM-powered review summarization with automated retraining and monitoring.
